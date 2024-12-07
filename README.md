@@ -66,16 +66,3 @@ This section provides detailed instructions on how to run and use the FinFlutter
 2. **Navigate the Screens:** Use the bottom navigation bar or swipe to move between the Metrics and Graph screens.
 3. **Interact with Data:** Tap on different tabs in the Graph screen to switch between Weeks, Months, and Quarters views.
 4. **View Metrics:** Check the Metrics screen for a summary of total orders, average price, and number of returns.
-
-## Support and Contributions
-
-If you encounter any issues or have suggestions for improvements, please file an issue on the GitHub repository. Contributions to the project are welcome! Please feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thank you to all the developers and contributors of the Flutter ecosystem.
-- Special thanks to the open-source projects that made this app possible.
