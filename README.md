@@ -56,7 +56,10 @@
 
 ## Preview (Screen Recording)
 
-*Here you can add a link or embed a screen recording showing the app running on iOS, Android, and Web. Demonstrate navigating between the Metrics and Graph screens, changing tabs on the Graph screen, and highlighting the user-friendly design.*
+
+https://github.com/user-attachments/assets/df194be8-e311-4157-95aa-7b177cc090a3
+
+
 
 ## How to Use
 
